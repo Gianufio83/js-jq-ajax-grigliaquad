@@ -36,3 +36,8 @@ body {
   font-weight: bold;
   vertical-align: middle;
 }
+#template {
+  /* display: none; */
+  /* display:flex;
+  justify-content: space-between; */
+}

@@ -1,5 +1,9 @@
 $(document).ready(
   function() {
+    // for (var i = 0; i < 6; i++) {
+    //   var template = $('#template' > '.wrapper').clone();
+    //   $('.wrapper').append(template);
+    // }
     $('.box').click(function() {
       var selezione = $(this);
         $.ajax(
